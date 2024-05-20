@@ -26,6 +26,10 @@ cd https://github.com/MatthMiller/todo-adonis-api.git
 ```
 
 ```bash
+npm install
+```
+
+```bash
 node ace migration:run
 ```
 
