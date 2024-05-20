@@ -5,15 +5,15 @@ API simples de lista de tarefas (Todo List) desenvolvida com AdonisJS e SQLite.
 ## Rotas
 
 - `GET /`
-  Retorna todas as tarefas.
+  <p>Retorna todas as tarefas.</p>
 - `GET /:id`
-  Retorna uma tarefa específica.
+  <p>Retorna uma tarefa específica.</p>
 - `POST /`
   <p>Cria uma nova tarefa. Os detalhes são informados no body da requisição.</p>
 - `PUT /:id`
-  Atualiza uma tarefa existente. Os detalhes são informados no body da requisição.
+  <p>Atualiza uma tarefa existente. Os detalhes são informados no body da requisição.</p>
 - `DELETE /:id`
-  Exclui uma tarefa específica.
+  <p>Exclui uma tarefa específica.</p>
 
 ## Como rodar a API
 
