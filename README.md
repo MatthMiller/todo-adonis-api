@@ -43,7 +43,3 @@ npm run dev
 - Validators com VineJS
 - Lucid ORM
 - Comandos Ace
-
-```
-
-```
